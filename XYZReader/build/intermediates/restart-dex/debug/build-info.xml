@@ -5,30 +5,30 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="200480884801546"
+    timestamp="201329665382888"
     token="-7378580273952722989"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="BINARY_MANIFEST_FILE_CHANGE" >
 
     <task
         name="javac"
-        duration="2399" />
+        duration="1412" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="380" />
+        duration="241" />
     <task
         name="verifier"
-        duration="37" />
+        duration="15" />
 
     <artifact
         location="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="200480884801546"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="201329665382888"
+        verifier="BINARY_MANIFEST_FILE_CHANGE" >
         <artifact
             location="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
