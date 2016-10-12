@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e1338bd4ea0def848e072f2da51409e0aa0e44d8">
+        <dex dex="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_372bdb50c674cd4258d6d570c618573474f80d46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.0.0_b0b5606b8122d22365ad207054026bd126b22e73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-22.0.0_4fb10690a596c996d9f3afb2f74c8f6a1de9ad11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="31f4beeb12b2037491fa9510e04bdc41008492de">
+        <dex dex="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3994cdbab145c1becb81d2fff99ae4b2ed321c57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_434e798381d0cff6045db351ffc2faedc59f9b3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_ac43354b5d13f980c37e5294a6be0efa8a12dd5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Afzal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_b01404ddaf0a4b9343ed20ed43cbacb3f51d9e8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Afzal/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_c7702b4d86d786207361b6239da0d525362fd9a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-22.0.0_ea3346ff3e0e0c9691b8122112e1261fd312a8b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_5ecb1fdd56792dc70e7906904489bb9cbcd22a62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_5135ec8b973abdbc5ad211896dc1bcba935589fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-22.0.0_54243363b0457323a1d0764fc581fdbf3f71214b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_f3b50084d4e36f2144949a0ba842ed5f49758620/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Afzal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_916600284cb5c70e0913a589337108418771d046/classes.dex" />
+    </item>
+
+</items>
