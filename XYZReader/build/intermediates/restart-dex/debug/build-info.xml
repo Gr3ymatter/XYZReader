@@ -5,7 +5,7 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="213964610164536"
+    timestamp="8197039879040"
     token="-7378580273952722989"
     verifier="COMPATIBLE" >
 
@@ -27,14 +27,35 @@
         type="RESOURCES" />
 
     <build
-        timestamp="213325227533503"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="2092182539518"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="213964610164536"
+        timestamp="7095300470475"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/builds/debug/7095300470475/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7123787875944"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/builds/debug/7123787875944/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7772084140626"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/builds/debug/7772084140626/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="8197039879040"
         verifier="COMPATIBLE" >
         <artifact
             location="/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"

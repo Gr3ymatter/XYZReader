@@ -1,7 +1,7 @@
-#Wed Oct 12 15:49:33 PDT 2016
-base.0=/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_372bdb50c674cd4258d6d570c618573474f80d46
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3994cdbab145c1becb81d2fff99ae4b2ed321c57/classes.dex
-base.1=/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3994cdbab145c1becb81d2fff99ae4b2ed321c57
-file.0=/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_372bdb50c674cd4258d6d570c618573474f80d46/classes.dex
+#Wed Oct 12 17:31:10 PDT 2016
+base.0=/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3994cdbab145c1becb81d2fff99ae4b2ed321c57
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_372bdb50c674cd4258d6d570c618573474f80d46/classes.dex
+base.1=/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_372bdb50c674cd4258d6d570c618573474f80d46
+file.0=/Users/Afzal/Dropbox/Projects/Android/UdacityNanoDegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3994cdbab145c1becb81d2fff99ae4b2ed321c57/classes.dex

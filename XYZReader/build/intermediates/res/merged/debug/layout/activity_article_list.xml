@@ -12,8 +12,6 @@
         android:background="?colorPrimary"
         android:elevation="4dp"
         android:id="@+id/toolbar_container"
-        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
-
         >
         <android.support.design.widget.CollapsingToolbarLayout
             android:layout_width="match_parent"
@@ -62,7 +60,7 @@
             android:layout_height="match_parent"
             android:clipToPadding="false"
             android:scrollbarStyle="outsideOverlay"
-            android:paddingTop="116dp"
+            android:paddingTop="4dp"
             android:paddingLeft="@dimen/list_side_margin"
             android:paddingRight="@dimen/list_side_margin"
             android:paddingBottom="28dp"
