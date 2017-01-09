@@ -5,64 +5,47 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="36187762969388"
+    timestamp="114066144790116"
     token="-2634483749335800673"
-    verifier="R_CLASS_CHANGE" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="2397" />
+        duration="1237" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="809" />
     <task
         name="instant-run-transform"
-        duration="292" />
+        duration="142" />
     <task
         name="verifier"
-        duration="46" />
+        duration="17" />
 
     <artifact
-        location="C:\Users\salaf\Dropbox\Projects\Android\UdacityNanoDegree\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="C:\Users\salaf\Dropbox\Projects\Android\UdacityNanoDegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-        type="DEX" />
-    <artifact
-        location="C:\Users\salaf\Dropbox\Projects\Android\UdacityNanoDegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-        type="DEX" />
-    <artifact
-        location="C:\Users\salaf\Dropbox\Projects\Android\UdacityNanoDegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-        type="DEX" />
-    <artifact
-        location="C:\Users\salaf\Dropbox\Projects\Android\UdacityNanoDegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-        type="DEX" />
+        location="C:\Users\salaf\Dropbox\Projects\Android\UdacityNanoDegree\xyzreader\XYZReader\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="35980247446602"
+        timestamp="112069488950124"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\salaf\Dropbox\Projects\Android\UdacityNanoDegree\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="36187762969388"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="C:\Users\salaf\Dropbox\Projects\Android\UdacityNanoDegree\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="C:\Users\salaf\Dropbox\Projects\Android\UdacityNanoDegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\salaf\Dropbox\Projects\Android\UdacityNanoDegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\salaf\Dropbox\Projects\Android\UdacityNanoDegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
+        timestamp="113880465036986"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\salaf\Dropbox\Projects\Android\UdacityNanoDegree\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="114066144790116"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\salaf\Dropbox\Projects\Android\UdacityNanoDegree\xyzreader\XYZReader\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
