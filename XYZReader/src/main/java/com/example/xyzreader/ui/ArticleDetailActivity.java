@@ -96,6 +96,7 @@ public class ArticleDetailActivity extends AppCompatActivity
                     mUpButtonContainer.setTranslationY(mTopInset);
                    // updateUpButtonPosition();
                     return windowInsets;
+
                 }
             });
         }

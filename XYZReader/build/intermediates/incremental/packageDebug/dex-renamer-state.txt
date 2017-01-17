@@ -1,7 +1,0 @@
-#Sun Jan 08 20:59:52 PST 2017
-base.0=C\:\\Users\\salaf\\Dropbox\\Projects\\Android\\UdacityNanoDegree\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_21f3176ba36cfe8f26df08761325aee9a2ea652a
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\salaf\\Dropbox\\Projects\\Android\\UdacityNanoDegree\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_831534675ef162b48fd27fc347eff3268c3b2715\\classes.dex
-base.1=C\:\\Users\\salaf\\Dropbox\\Projects\\Android\\UdacityNanoDegree\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_831534675ef162b48fd27fc347eff3268c3b2715
-file.0=C\:\\Users\\salaf\\Dropbox\\Projects\\Android\\UdacityNanoDegree\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_21f3176ba36cfe8f26df08761325aee9a2ea652a\\classes.dex
